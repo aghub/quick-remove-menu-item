@@ -8,13 +8,13 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Delete menu item & its sub items quickly
 
 == Description ==
 
 This plugin helps you to delete an menu item and its sub items very easily.
 
-You don't need to click on an item, click on "Remove" link. Just click "x" button (to delete an item) or click "xx" (to delete an item and all its sub items)
+You don't need to click on an item, then click "Remove" link. Just click "x" button (to delete an item) or click "xx" (to delete an item and all its sub items)
 
 == Installation ==
 
