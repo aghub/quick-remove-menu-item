@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: hptheme
-Donate link: http://example.com/
+Donate link: http://hpthemes.com/donation/
 Tags: menu, menu item, navigation, nav
 Requires at least: 3.0.1
 Tested up to: 3.7
