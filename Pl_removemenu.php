@@ -4,11 +4,11 @@ Plugin Name: Quick remove menu item
 Plugin URI: http://hpthemes.com/
 Description: Delete menu item & its sub items quickly
 Version: 0.1
-Author: tannew
-Author Email: tanpvnew@gmail.com
+Author: hpthemes
+Author Email: hpthemesite@gmail.com
 License:
 
-  Copyright 2013 tannew (tanpvnew@gmail.com)
+  Copyright 2013 hpthemesite@gmail.com
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
